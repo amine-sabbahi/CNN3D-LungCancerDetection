@@ -64,12 +64,9 @@ This research project presents a computer-aided diagnosis (CAD) system for lung 
 # Clone the repository
 git clone https://github.com/amine-sabbahi/CNN3D-LungCancerDetection.git
 
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
 # Install required dependencies
 pip install -r requirements.txt
+```
 
 # Collaborators
 - [Aymane Mahri](https://github.com/AymaneM21)
